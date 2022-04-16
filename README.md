@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Shuvo Islam
 ###### Full stack web developer
-![Full stack web developer](https://avatars.githubusercontent.com/u/46838274?s=400&u=c4a8d793af0e2ec997fbdb2cd7ad802f5f8599ad&v=4)
+![Full stack web developer]()
 
 I am a final year student of Software Engineering at Noakhali Science And Technology University
 
