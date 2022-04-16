@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Shuvo Islam
 ###### Full stack web developer
-![Full stack web developer]()
-
 I am a final year student of Software Engineering at Noakhali Science And Technology University
 
 Skills: Java / Python/ PHP/ JavaScript / HTML / CSS/ Django / DJANGO REST Framwork / React /Bootstrap / Tailwind CSS / Node.js / Express.js / Mongo db / MySQL /Firebase
