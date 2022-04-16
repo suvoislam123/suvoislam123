@@ -2,7 +2,7 @@
 ###### Full stack web developer
 I am a final year student of Software Engineering at Noakhali Science And Technology University
 
-Skills: Java / Python/ PHP/ JavaScript / HTML / CSS/ Django / DJANGO REST Framwork / React /Bootstrap / Tailwind CSS / Node.js / Express.js / Mongo db / MySQL /Firebase
+Skills: Java / Python/ PHP/ JavaScript / HTML / CSS/ Django / Django REST Framwork / React /Bootstrap / Tailwind CSS / Node.js / Express.js / Mongo db / MySQL /Firebase
 
 - 🔭 I’m currently working on  Full stack Web Development
  - 🌱 I’m currently learning Spring and Spring boot
